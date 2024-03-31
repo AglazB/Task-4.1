@@ -1,0 +1,15 @@
+/Users/andrey/Projects/Task-4.1/Task-4.1/obj/Debug/net7.0/Task-4.1.csproj.AssemblyReference.cache
+/Users/andrey/Projects/Task-4.1/Task-4.1/obj/Debug/net7.0/Task-4.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrey/Projects/Task-4.1/Task-4.1/obj/Debug/net7.0/Task-4.1.AssemblyInfoInputs.cache
+/Users/andrey/Projects/Task-4.1/Task-4.1/obj/Debug/net7.0/Task-4.1.AssemblyInfo.cs
+/Users/andrey/Projects/Task-4.1/Task-4.1/obj/Debug/net7.0/Task-4.1.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/Task-4.1/Task-4.1/bin/Debug/net7.0/Task-4.1
+/Users/andrey/Projects/Task-4.1/Task-4.1/bin/Debug/net7.0/Task-4.1.deps.json
+/Users/andrey/Projects/Task-4.1/Task-4.1/bin/Debug/net7.0/Task-4.1.runtimeconfig.json
+/Users/andrey/Projects/Task-4.1/Task-4.1/bin/Debug/net7.0/Task-4.1.dll
+/Users/andrey/Projects/Task-4.1/Task-4.1/bin/Debug/net7.0/Task-4.1.pdb
+/Users/andrey/Projects/Task-4.1/Task-4.1/obj/Debug/net7.0/Task-4.1.dll
+/Users/andrey/Projects/Task-4.1/Task-4.1/obj/Debug/net7.0/refint/Task-4.1.dll
+/Users/andrey/Projects/Task-4.1/Task-4.1/obj/Debug/net7.0/Task-4.1.pdb
+/Users/andrey/Projects/Task-4.1/Task-4.1/obj/Debug/net7.0/Task-4.1.genruntimeconfig.cache
+/Users/andrey/Projects/Task-4.1/Task-4.1/obj/Debug/net7.0/ref/Task-4.1.dll
